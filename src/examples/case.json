@@ -1,0 +1,90 @@
+{
+  "BoolData": {
+    "format": "",
+    "val": true
+  },
+  "DistanceData": {
+    "format": "0.00",
+    "val": 1404
+  },
+  "EndLatitudeData": {
+    "format": "0.000000",
+    "val": [-97.31635, 32.85773]
+  },
+  "EndLongitudeData": {
+    "format": "0.000000",
+    "val": [456, 123]
+  },
+  "EnumData": {
+    "format": "",
+    "val": ""
+  },
+  "FloatData": {
+    "format": "0.00",
+    "val": 0.72490704
+  },
+  "GummeiData": {
+    "format": "",
+    "val": "53880901599232"
+  },
+  "ImeiData": {
+    "format": "00000000-000000-0",
+    "val": ""
+  },
+  "IntegerData": {
+    "format": "",
+    "val": 341
+  },
+  "IntegerListData": {
+    "format": "",
+    "val": "5,9"
+  },
+  "LteEndEnbIdData": {
+    "format": "",
+    "val": "132023"
+  },
+  "LteNEData": {
+    "format": "",
+    "val": "83612309806604"
+  },
+  "LteStartEnbIdData": {
+    "format": "",
+    "val": "132702"
+  },
+  "MakeData": {
+    "format": "",
+    "val": "SAMSUNG"
+  },
+  "MillisecondDurationData": {
+    "format": "",
+    "val": 10721
+  },
+  "MillisecondTimeDateData": {
+    "format": "",
+    "val": 1541438207948
+  },
+  "ModelData": {
+    "format": "",
+    "val": "SM-J727V"
+  },
+  "PercentData": {
+    "format": "",
+    "val": 1.9809483
+  },
+  "PrimaryOriginatingNEData": {
+    "format": "",
+    "val": "83612309633548"
+  },
+  "PrimaryTerminatingNEData": {
+    "format": "",
+    "val": "83612309633548"
+  },
+  "RoamingGroupData": {
+    "format": "",
+    "val": ""
+  },
+  "UnsignedIntegerData": {
+    "format": "",
+    "val": 13199
+  }
+}
